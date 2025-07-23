@@ -42,7 +42,7 @@
 ---
 
  📬 Let’s Connect
-(https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahkhawar1107@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahkhawar1107@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdullah-khawar1107)
 
 ---
