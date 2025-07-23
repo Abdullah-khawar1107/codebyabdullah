@@ -42,7 +42,7 @@
 ---
 
  📬 Let’s Connect
-📧 **Email me :** [abdullahkhawar1107@gmail.com](mailto:abdullahkhawar1107@gmail.com)
+📧 **Email me :** [abdullahkhawar1107@gmail.com]
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdullah-khawar1107)
 
 ---
