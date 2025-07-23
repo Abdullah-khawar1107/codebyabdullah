@@ -42,9 +42,8 @@
 ---
 
  📬 Let’s Connect
-📧 **Email me :** [abdullahkhawar1107@gmail.com]
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdullah-khawar1107)
-
+📧 Email me directly: abdullahkhawar1107@gmail.com
 ---
 
 > 💡 “Every line of code I write is meant to solve a problem, not just fill a page.”
