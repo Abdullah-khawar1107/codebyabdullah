@@ -42,9 +42,8 @@
 ---
 
  📬 Let’s Connect
-
-[![Gmail](abdullahkhawar1107@gmail.com)
-[![GitHub](https://github.com/Abdullah-khawar1107)
+(https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahkhawar1107@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdullah-khawar1107)
 
 ---
 
