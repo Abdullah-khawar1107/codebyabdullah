@@ -43,6 +43,7 @@
 
  📬 Let’s Connect
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdullah-khawar1107)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://tempo-deployment-2b97b31d-8ecd-40f0-nu.vercel.app/)
 📧 Email me directly: abdullahkhawar1107@gmail.com
 ---
 
